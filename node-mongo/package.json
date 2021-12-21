@@ -1,0 +1,16 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "first node-mongo example",
+  "main": "node-mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node-mongo"
+  },
+  "author": "utsav vasoya",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mongodb": "^3.6.9"
+  }
+}
